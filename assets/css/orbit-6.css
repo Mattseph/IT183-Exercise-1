@@ -37,10 +37,11 @@ a:focus {
 
 p {
   line-height: 1.5;
+  text-align: justify;
 }
 
 .wrapper {
-  background: #4B6A78;
+  background: #2e4049;
   max-width: 960px;
   margin: 0 auto;
   position: relative;
@@ -50,7 +51,7 @@ p {
 }
 
 .sidebar-wrapper {
-  background: #4B6A78;
+  background: #2e4049;
   position: absolute;
   right: 0;
   width: 280px;
@@ -258,7 +259,7 @@ p {
   background-clip: padding-box;
 }
 .skillset .theme-progress-bar {
-  background: #5f8697;
+  background: #2e4049;
 }
 
 .footer {
